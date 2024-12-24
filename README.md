@@ -1,12 +1,12 @@
 
-<h1 align="center">I'm <a href="https://github.com/Aryagm">Christian<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
+<h1 align="center">I'm <a href="https://github.com/chrisAguil">Christian<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
 <h1>About Me! 😎</h1>
 <img align="right" height="200" width="250" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="SubhadeepZilong" />
 
 - 🖥️: I'm a software dev with a passion for building cool stuff and securing it.
 - 🐍: Python is my go-to language for automating everything from scripts to security tools.
 -  🚀: On a mission to combine my dev skills with cybersecurity knowledge to create robust and secure software.
-- ⚡  Slide through my <a href="https://open.spotify.com/user/christian2480?si=58e347aaa5004c61"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)" alt="Spotify"></a> and peep the playlist!
+- ⚡  Slide through my <a href="https://open.spotify.com/user/christian2480?si=58e347aaa5004c61">Spotify</a> and peep the playlist!
 - 🤔: I’m looking for help with anything I am currently learning! 😅
 
 ## How to reach me 🤝 
