@@ -1,10 +1,19 @@
-<p>
-  <img align="right" height="250" width="300" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="SubhadeepZilong" />
-</p>
 
-## Contact me! <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;
+<h1 align="center">I'm <a href="https://github.com/Aryagm">Christian<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
+<h1>About Me! 😎</h1>
+<img align="right" height="200" width="250" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="SubhadeepZilong" />
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/christian-aguilera-a8ba3331b/)
+- 🏫: I'm a grade 9, High School Student.
+- 🔭: I’m currently working on many small ML projects.
+- 🌱: I’m currently learning Neural Networks and Deep Learning. 🧠💻🤖
+- 🤔: I’m looking for help with anything I am currently learning! 😅
+- ⚡  Slide through my <a href="">Spotify</a> and peep the playlist!
+
+## How to reach me 🤝 
+
+<a href="https://www.linkedin.com/in/christian-aguilera-a8ba3331b/" target="_blank">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkeIn">
+</a>
 <a href="https://discordapp.com/users/1006263143812575242" target="_blank">
   <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
 </a>
